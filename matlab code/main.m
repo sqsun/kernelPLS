@@ -1,6 +1,6 @@
 % Algorithm to (try to) select the features(genes) using kernelPLS method.
 % Function name:    main.m
-%       Authors:    S.Q., Sun and Q.K., Peng
+%       Authors:    S.Q. Sun and Q.K. Peng
 %   Affiliation:    Xi'an Jiaotong University
 %       Contact:    ssqsxf@stu.xjtu.edu.cn
 %  Release date:    April 20, 2014
