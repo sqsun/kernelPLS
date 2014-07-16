@@ -5,7 +5,7 @@ This is a Matlab source code of kernelPLS algorithm for feature(gene) selection 
 
 Information
 -------------------------
-Author: S.Q., Sun and Q.K., Peng
+Author: S.Q. Sun and Q.K. Peng
 Affiliation: Xi'an Jiaotong University
 Contact: ssqsxf@stu.xjtu.edu.cn
 Release date: April 20, 2014
