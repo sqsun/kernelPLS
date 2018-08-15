@@ -1,4 +1,4 @@
 # kernelPLS
-kernel partial least squares for feature selection
+kernel partial least squares for gene selection
 
-We developed a non-linear feature selection method for microarray data to classify cancer/normal samples.
+We developed a non-linear gene selection method from microarray data.
